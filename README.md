@@ -162,3 +162,7 @@
 # 9. 플로우 차트
 
 ![flowchat drawio](https://github.com/user-attachments/assets/c528fe75-dca0-41fe-b0af-46d4fd0c9933)
+
+# 10. 클래스 다이어그램
+
+![WAYFARER Class diagram drawio](https://github.com/user-attachments/assets/8bff5aca-3923-461f-abe0-f96a801a2d64)
