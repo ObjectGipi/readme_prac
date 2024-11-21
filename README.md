@@ -1,131 +1,134 @@
-<img src="https://github.com/user-attachments/assets/3ac2fa4e-8c8b-4c4c-9b3d-506e205b5720" alt="WAYFARER" width="650" height="300">
+![WAYFARER ICON](https://github.com/user-attachments/assets/429813e4-7883-4ac1-bcb7-5afae5f7154a)
 
-# WEB1_2_TravelMaker_BE<br/>
-
-**Programmers DevCourse 2회차 4팀 최종 프로젝트**
-
-[<img width="40" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">](https://www.notion.so/prgrms/Team04-Travel-Maker-705f50eddc27424fbfd36842a8df1a84?pvs=4)   
-↗**Notion Link**
+# 데브코스 2회차 4팀 최종 프로젝트
+[<img width="50" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">](https://www.notion.so/prgrms/Team04-Travel-Maker-705f50eddc27424fbfd36842a8df1a84?pvs=4)
+<br/>
+↗ **WEB1_2_TravelMaker_BE Notion Link**
 
 ***
 
-## ⛑FE_Team
+## 💻 FE_Team
 |방정배|전나영|김현빈|
 |:---:|:---:|:---:|
-|팀장, 채용정보, 프론트|채용정보|기술블로그|메일발송|회원가입|
+|FE_TeamLeader & GitAdmin|FE_Developer|FE_Developer|
 
-## 🛠BE_Team
+## 💻 BE_Team
 |허찬솔|박현우|김세현|임현규|이용민|
 |:---:|:---:|:---:|:---:|:---:|
-|팀장, 채용정보, 프론트|채용정보|기술블로그|메일발송|회원가입|
-|[m-a-king](https://github.com/m-a-king)|[rudgns328](https://github.com/rudgns328)|[Cheol-Jin](https://github.com/Cheol-Jin)|[ayoung-dev](https://github.com/ayoung-dev)|[CodeItpython](https://github.com/CodeItpython)|
-|![](https://avatars.githubusercontent.com/u/126754298?v=4)|![](https://avatars.githubusercontent.com/u/128586833?v=4)|![](https://avatars.githubusercontent.com/u/61444132?v=4)|![](https://avatars.githubusercontent.com/u/52439725?v=4)|![](https://avatars.githubusercontent.com/u/99863853?v=4)|
+|BE_TeamLeader|PM|GitAdmin|BE_Developer|BE_Developer|
 
-## 기술스택
+## 🛠 기술스택(추후 추가 예정)
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/mysql-5395FD?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/NextJS-8D5A9E?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+***
 
-# 1. 개요
-<img width="50%" alt="대표이미지" src="https://github.com/user-attachments/assets/b6d8693c-d524-47b6-b2ee-32edd1ab99cd">
+# 1. 프로젝트 개요
+![WAYFARER](https://github.com/user-attachments/assets/3ac2fa4e-8c8b-4c4c-9b3d-506e205b5720)
 
 ## 프로젝트 명
 
-**개발자 신입 및 취업 준비생을 위한 IT 뉴스 레터 : develetter**
+**실시간 채팅 기반의 여행 플래너 서비스 : WAYFARER**
 
 ## 기획 의도
 
- develetter는 신입 개발자와 취업 준비생을 위한 맞춤형 뉴스레터 서비스입니다. 기술 환경이 빠르게 변화하는 요즘, 우리는 종종 필터 버블에 갇혀 중요한 정보를 놓치거나, 반대로 과도한 정보로 인해 콘텐츠 피로를 겪곤 합니다.
+현대의 여행 계획은 대부분 디지털 기반인데 반해,<br/>
+**실시간 일정 관리 기능이 있는 웹 서비스**는 좀처럼 없는 것에 아이디어를 착안하여 본 프로젝트를 기획하게 되었습니다.
 
- 이런 문제를 해결하고자 develetter를 기획했습니다. 우리는 사용자의 관심사에 맞춘 채용 공고, 컨퍼런스 일정, 개발 블로그 콘텐츠를 정기적으로 이메일로 제공합니다. 개인화된 필터링을 통해 꼭 필요한 정보만을 정확하게 전달함으로써, 신입 개발자와 취업 준비생들의 성장을 돕는 것이 develetter의 목표입니다.
+<details>
+<summary>🙋🏻‍♂️이런 경험 있으신가요?3?</summary>
 
-## 개발 진행 상황
-[GitHub Project를 통해 진행 상황 관리](https://github.com/orgs/prgrms-be-devcourse/projects/44/views/4)
+친구들 혹은 동료들과 여행 계획을 짜 보신 적이 있으신가요?🤗<br/>
+카카오톡, 디스코드, 노션 등 다양한 메신저 프로그램을 사용할 것 입니다.<br/>
+하지만, 여행 계획에는 지도 어플의 사용이 필연적이죠.<br/>
+그렇기에 연락은 앞서 말한 메신저 프로그램으로 하되,<br/>
+장소는 구글이나 네이버 지도에서 하나하나 링크를 공유하는 것이 흔한 방식입니다.<br/>
+그러다보면,,,계획을 의논하는 데에 시간이 걸릴 수 밖에 없죠.<br/>
+삽시간에 각자 가고싶고, 먹고싶고, 하고싶은 것들은 메신저에 쌓일 것이고,<br/>
+그것들을 일정과 이동거리에 맞게 최적화 루트로 만드는 데에는 추가로 노력이 들어가기 때문입니다.💦<br/>
+토론은 다 같이 할진 몰라도, 보통 최적화 루트를 짜는 사람은 정해져 있습니다.<br/>
+다들 실시간으로 연락을 안 할 때에 해당 멤버는 그 작업을 수행하죠.👨🏻‍💻<br/><br/>
+
+자, 시간과 노력을 들여 루트를 2박3일의 루트를 완성했습니다💪🏻<br/>
+그렇게 길지 않은 여행 기간이기에 정말 가고싶다고 말한 곳만 넣고,<br/>
+이동거리까지 생각하여 본인이 생각하기에 최적의 루트를 만들었죠.<br/>
+근데??💢 멤버들의 생각은 달랐고,<br/>
+"여기를 먼저 가자", "이 날 저녁은 이걸 먹자",🗯<br/>
+"그냥 저녁은 숙소에서 다같이 먹는게 낫지않아? 그럴려면 마트를 들리자"🗯 등<br/>
+생각지도 못한 의견들을 마주하게 됩니다.🤦🏻‍♂️<br/>
+이렇듯 최적화 루트는 한명이 세우기에 다른 멤버에 의해서 쉽게 수정되기 마련이죠.<br/>
+그렇다면 또 같은 작업을 반복해야 합니다.<br/>
+평화롭게 다시 이야기가 진행된다면 다행이지만,<br/>
+조금이라도 날카롭게 말했다가는 힘들게 계획을 짠 멤버의 의욕은 꺾일 것이고😱<br/>
+더 나아가 갈등이 생기기 마련이죠.🤜🏻🤛🏻<br/><br/>
+
+저희는 이러한 문제점을 미연에 방지하고자 "실시간"에 집중하였습니다.<br/>
+실시간으로 채팅하며, 실시간으로 장소를 검색하고, 실시간으로 루트를 짜는 과정을 통해<br/>
+갈등을 줄이고 협력을 극대화하는 여행 플래너 서비스를 개발하고자 합니다.⛑<br/>
+이를 통해 멤버들이 효율적이고 협력적으로 여행 계획을 세우며,<br/>
+서로의 의견을 실시간으로 반영해가는 즐거운 여행 준비 과정을 경험할 수 있을 것이라 생각합니다.✨
+</div>
+</details>
 
 ## 개발 기간
 
-1차 개발 | 2024/09/23 ~ 2024/10/10
+1차 개발 | 2024/11/18 ~ 2024/12/01
 
-2차 개발 | 2024/10/11 ~ 2024/11/06
+2차 개발 | 2024/12/02 ~ 2024/12/09
 
----
+***
 
 # 2. 주요 기능
 
-### 회원 관리
+### 소셜 로그인(카카오/구글 연동)
 
-- **회원가입(일반/SNS 연동)**
-- **로그인/로그아웃**
-- **구독 신청/취소**
-- **마이페이지 - 관심 키워드 설정**
+- **카카오톡 및 구글을 통한 간편 인증 제공**
 
-### 메일
+### 실시간 채팅
 
-- **맞춤형 정보(채용공고, 기술 블로그, 컨퍼런스) 정기 발송**
+- **여행 멤버 간 채팅창을 통해 의견 및 피드백 즉각적으로 가능**
 
-### 채용공고
+### 지도 핀
 
-- **사람인 API로 채용 정보 파싱**
-- **회원의 관심 키워드에 맞는 채용 공고 제공**
+- **지도에서 가고 싶은 장소를 핀으로 표시 가능**
 
-### 기술 블로그
+### 루트 플랜 저장
 
-- **구글 검색 API로 기술 블로그 내용 파싱**
-- **회원의 관심 키워드에 맞는 기술 블로그 제공**
+- **여행 루트를 플랜으로 저장하여 한눈에 보기 쉽게 생성**
 
-### 컨퍼런스
+### 플래너 생성 및 공유
 
-- **IT 관련 컨퍼런스 정보 제공**
+- **여행 플래너를 생성하고, 링크 공유 및 비밀번호 설정 가능**
   
----
+***
 
-## 상세 기능
+## 상세 기능(추후 추가 예정)
 
-**회원관리**
+**상세 기능**
 
-- 이메일 인증을 통한 회원가입
-- Thymeleaf를 통해 동적HTML사용하여 인증메일 템플릿 생성
-- jwt토큰 발급을통한 로그인처리로 안정화된 로그인서비스 제공
-- DB에 저장되는 password를 PasswordEncoder를 사용하여 Encrypt
+- 설명 1
+- 설명 2
 
-**메일**
-
-- Spring Batch와 Scheduler를 통해 정기적으로 메일 발송
-- Coroutine을 통해 메일 비동기 처리
-- Batch Partitioning을 통해 메일 대량 발송 오버헤드 관리
-- 메일 발송 및 삭제 관리
-- Thymeleaf를 통해 동적 HTML 생성하여 메일 템플릿 생성
-
-**채용공고**
-
-- WebClient 라이브러리를 사용하여 사람인 채용 공고 API 호출 및 응답 데이터 저장
-- Spring Batch를 통해 사용자마다 맞춤화 된 채용 공고 필터링(QuerydslNoOffsetPagingItemReader를 활용한 성능 개선)
-- Redis를 사용하여 필터링된 채용 공고 캐싱 후 일괄 저장
-- Scheduler를 통해 주기적으로 사람인 채용 공고 업데이트 및 맞춤화 된 채용 공고 필터링
-
-**기술 블로그**
-
-- Google Programmable Search Engine API 사용하여 기술 블로그 데이터 탐색 및 DB 저장
-- Scheduler를 통해 주기적으로 기술 블로그 데이터 업데이트 및 사용자 맞춤 관심사에 기반한 필터링
-
-**컨퍼런스**
-
-- 관리자에 의한 컨퍼런스 일정 CRUD
-</aside>
-
----
+***
 
 # 3. ERD
 <img width="521" alt="erd" src="https://github.com/user-attachments/assets/f784166a-1891-410c-bd96-92f767e89196">
 
----
+***
 
-# 4. 화면 설계
+# 4. 와이어 프레임
 
-[develetter Figma](https://embed.figma.com/design/kqnI5bYEDtzKxzMLFlYNlp/develetter?node-id=0-1&node-type=canvas&t=JVjCxHuVzjakaIBT-0&embed-host=notion&footer=false&theme=system)
+[<img src="https://github.com/user-attachments/assets/6f97e325-8b99-4a58-9add-92f209013ae6" alt="Figma" width="50">
+]([https://www.notion.so/prgrms/Team04-Travel-Maker-705f50eddc27424fbfd36842a8df1a84?pvs=4](https://www.figma.com/design/ZB1xGpP324a0Nr9pld2Dww/TravelMaker?node-id=0-1&node-type=canvas))
+<br/>
+↗ **WAYFARER Figma Link**
 
-[맛보기 시연 화면 Vercel](https://develetter-fe.vercel.app/)
+***
 
----
+# 5. 유저 스토리 맵핑(추후 추가 예정)
+
+
+
+***
 
 # 5. 요구사항 명세
 
@@ -133,8 +136,7 @@
 
 <img width="1051" alt="요구사항명세" src="https://github.com/user-attachments/assets/f01f0e0b-9b5c-44ce-8c8e-9fecd51102a4">
 
-
----
+***
 
 # 6. API 명세
 
@@ -142,44 +144,6 @@
 
 - User를 제외한 나머지 기능의 호출은 Scheduler를 통해서 관리됩니다.
 
----
+***
 
-# 7. 개발 환경
-
-- OS : Mac
-- IDE : JetBrain IntelliJ
-
-| Software | 세부 Spec 사양 (Version) |
-| --- | --- |
-| Kotlin | 2.0.21 |
-| Spring Boot | 3.3.4 |
-| Spring Boot Libraries | Batch, Data JPA, JDBC, Mail, Oauth2, Web, Validation, Security, Thymeleaf: 3.3.4 |
-| Lombok | 1.18.20 |
-| QueryDSL | JPA: 5.0.0 |
-| MySQL Connector | 8.3.0 |
-| Jwt | jwt:0.11.2 |
-| Coroutines | 1.7.3 |
-| Swagger | 2.1.0 |
-| **Redis** | spring-boot-starter-data-redis |
-| **Additional Libraries** | Kotlin Logging, Jackson Kotlin Module |
-
-### **협업도구**
-
-- <img src="https://img.shields.io/badge/discord-1071D3?style=flat-square&logo=discord&logoColor=white"> 
-- <img src="https://img.shields.io/badge/Slack-6B46C1?style=flat-square&logo=slack&logoColor=white">
-- <img src="https://img.shields.io/badge/IntelliJ IDEA-4A154B?style=flat-square&logo=intellijidea&logoColor=white"> 
-- <img src="https://img.shields.io/badge/notion-5395FD?style=flat-square&logo=notion&logoColor=white"> 
-- <img src="https://img.shields.io/badge/github-0?style=flat-square&logo=github&logoColor=white&color=%2385EA2D">
-
-### 코딩 컨벤션
-
-[Git  Convention](https://www.notion.so/Git-Convention-bac0523312b046d6908f50d2d81fd3e8?pvs=21)
-
-[Code Convention](https://www.notion.so/Code-Convention-1b666e9e4ef04237b97004d0b79bae3b?pvs=21)
-
----
-
-# 8. 트러블 슈팅
-
-[트러블 슈팅](https://www.notion.so/a-young/1370cdfcaa44805fa0cbdb68fb405a39?v=b09ee9394c13489286eb95d12f969e73&pvs=4)
-
+#
