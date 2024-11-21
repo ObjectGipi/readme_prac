@@ -1,4 +1,4 @@
-![WAYFARER ICON](https://github.com/user-attachments/assets/429813e4-7883-4ac1-bcb7-5afae5f7154a)
+<img src="https://github.com/user-attachments/assets/429813e4-7883-4ac1-bcb7-5afae5f7154a" alt="WAYFARER ICON" width="300">
 
 # 데브코스 2회차 4팀 최종 프로젝트
 [<img width="50" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">](https://www.notion.so/prgrms/44a38f6f064f40bbaca1bce6d7658407?pvs=4)
