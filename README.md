@@ -19,7 +19,7 @@
 ## 💻 BE_Team
 |👑허찬솔|📝박현우|👨🏻‍💻김세현|👨🏻‍💻임현규|👨🏻‍💻이용민|
 |:---:|:---:|:---:|:---:|:---:|
-|BE_TeamLeader|PM|GitAdmin|BE_Developer|BE_Developer|
+|BE_TeamLeader|PM|BE_GitAdmin|BE_Developer|BE_Developer|
 |[iamnahc](https://github.com/iamnahc)|[ObjectGipi](https://github.com/ObjectGipi)|[chadoli27](https://github.com/chadoli27)|[LimHyeonGyu](https://github.com/LimHyeonGyu)|[lǐ_róng_mín](https://github.com/Yi-YongMin)|
 |![](https://avatars.githubusercontent.com/u/90306923?v=4)|![](https://avatars.githubusercontent.com/u/177755524?v=4)|![](https://avatars.githubusercontent.com/u/148460430?v=4)|![](https://avatars.githubusercontent.com/u/90891022?v=4)|![](https://avatars.githubusercontent.com/u/96493001?v=4)|
 
@@ -56,7 +56,7 @@
 토론은 다 같이 할진 몰라도, 보통 최적화 루트를 짜는 사람은 정해져 있습니다.<br/>
 다들 실시간으로 연락을 안 할 때에 해당 멤버는 그 작업을 수행하죠.👨🏻‍💻<br/><br/>
 
-자, 시간과 노력을 들여 루트를 2박3일의 루트를 완성했습니다💪🏻<br/>
+자, 시간과 노력을 들여 2박3일의 루트를 완성했습니다💪🏻<br/>
 그렇게 길지 않은 여행 기간이기에 정말 가고싶다고 말한 곳만 넣고,<br/>
 이동거리까지 생각하여 본인이 생각하기에 최적의 루트를 만들었죠.<br/>
 근데??💢 멤버들의 생각은 달랐고,<br/>
