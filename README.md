@@ -1,7 +1,7 @@
 ![WAYFARER ICON](https://github.com/user-attachments/assets/429813e4-7883-4ac1-bcb7-5afae5f7154a)
 
 # 데브코스 2회차 4팀 최종 프로젝트
-[<img width="50" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">](https://www.notion.so/prgrms/Team04-Travel-Maker-705f50eddc27424fbfd36842a8df1a84?pvs=4)
+<img width="50" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">
 <br/>
 ↗ **WEB1_2_TravelMaker_BE Notion Link**
 
@@ -111,14 +111,14 @@
 ***
 
 # 3. ERD
-<img width="521" alt="erd" src="https://github.com/user-attachments/assets/f784166a-1891-410c-bd96-92f767e89196">
+![WAYFARER-ERD](https://github.com/user-attachments/assets/529cca48-b551-464e-b90a-0b363722e20e)
 
 ***
 
 # 4. 와이어 프레임
 
 [<img src="https://github.com/user-attachments/assets/6f97e325-8b99-4a58-9add-92f209013ae6" alt="Figma" width="50">
-]([https://www.notion.so/prgrms/Team04-Travel-Maker-705f50eddc27424fbfd36842a8df1a84?pvs=4](https://www.figma.com/design/ZB1xGpP324a0Nr9pld2Dww/TravelMaker?node-id=0-1&node-type=canvas))
+]([https://www.notion.so/prgrms/Team04-Travel-Maker-705f50eddc27424fbfd36842a8df1a84?pvs=4])
 <br/>
 ↗ **WAYFARER Figma Link**
 
@@ -130,15 +130,15 @@
 
 ***
 
-# 5. 요구사항 명세
+# 6. 요구사항 명세
 
-[요구사항 명세 - Google Sheets](https://docs.google.com/spreadsheets/d/1ZPpwRtQhfJMNHB68tt5XvnMUpD6XriXt35Ug6cR5_mA/edit?gid=0#gid=0)
-
-<img width="1051" alt="요구사항명세" src="https://github.com/user-attachments/assets/f01f0e0b-9b5c-44ce-8c8e-9fecd51102a4">
+[<img width="50" alt="notion" src="https://www.notion.so/prgrms/1-1-1423e47046bf815fba11d7af88c7ce31?pvs=4">]
+<br/>
+↗ **요구사항 명세서📜 Notion Link**
 
 ***
 
-# 6. API 명세
+# 7. API 명세
 
 [Postman API 명세](https://programmers-7-teeam.postman.co/workspace/d6e3fd25-4044-49a6-8410-82ad9dbbde13/documentation/37784458-a6b40313-d6f5-4b6f-aa45-2c53c2e0adf4)
 
@@ -146,4 +146,8 @@
 
 ***
 
-#
+# 8. 유스 케이스
+
+
+
+# 9. 플로우 차트
