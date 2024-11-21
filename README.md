@@ -5,7 +5,7 @@
 
 **Programmers DevCourse 4팀 최종 프로젝트**
 
-📌 [Notion]([https://www.notion.so/a09d22a7a9f14644afb1727697b18d8c?pvs=4](https://www.notion.so/prgrms/Team04-Travel-Maker-705f50eddc27424fbfd36842a8df1a84?pvs=4))
+📌 [Notion Link](https://www.notion.so/prgrms/Team04-Travel-Maker-705f50eddc27424fbfd36842a8df1a84?pvs=4)
 
 ***
 
