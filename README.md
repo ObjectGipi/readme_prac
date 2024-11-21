@@ -1,7 +1,7 @@
 ![WAYFARER ICON](https://github.com/user-attachments/assets/429813e4-7883-4ac1-bcb7-5afae5f7154a)
 
 # 데브코스 2회차 4팀 최종 프로젝트
-<img width="50" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">
+[<img width="50" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">](https://www.notion.so/prgrms/44a38f6f064f40bbaca1bce6d7658407?pvs=4)
 <br/>
 ↗ **WEB1_2_TravelMaker_BE Notion Link**
 
@@ -110,7 +110,8 @@
 
 ***
 
-# 3. ERD
+# 3. ERD(추후 수정 예정)
+
 ![WAYFARER-ERD](https://github.com/user-attachments/assets/529cca48-b551-464e-b90a-0b363722e20e)
 
 ***
@@ -126,28 +127,30 @@
 
 # 5. 유저 스토리 맵핑(추후 추가 예정)
 
-
+여기에 내용 기입
 
 ***
 
-# 6. 요구사항 명세
+# 6. 요구사항 명세서
 
-[<img width="50" alt="notion" src="https://www.notion.so/prgrms/1-1-1423e47046bf815fba11d7af88c7ce31?pvs=4">]
+[<img width="50" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">](https://www.notion.so/prgrms/1-1-1423e47046bf815fba11d7af88c7ce31?pvs=4)
 <br/>
-↗ **요구사항 명세서📜 Notion Link**
+↗ **📜 Notion Link**
 
 ***
 
-# 7. API 명세
+# 7. API 명세서
 
-[Postman API 명세](https://programmers-7-teeam.postman.co/workspace/d6e3fd25-4044-49a6-8410-82ad9dbbde13/documentation/37784458-a6b40313-d6f5-4b6f-aa45-2c53c2e0adf4)
-
-- User를 제외한 나머지 기능의 호출은 Scheduler를 통해서 관리됩니다.
+[<img width="50" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">](https://www.notion.so/prgrms/API-1423e47046bf814f9fbcf3a345bf1770?pvs=4)
+<br/>
+↗ **📑 Notion Link**
 
 ***
 
 # 8. 유스 케이스
 
-
+![유스 케이스](https://github.com/user-attachments/assets/200f4d5e-e8e0-4118-b51a-ef8f2dcf11d0)
 
 # 9. 플로우 차트
+
+![flowchat drawio](https://github.com/user-attachments/assets/c528fe75-dca0-41fe-b0af-46d4fd0c9933)
