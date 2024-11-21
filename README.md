@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/429813e4-7883-4ac1-bcb7-5afae5f7154a" alt="WAYFARER ICON" width="300">
+<img src="https://github.com/user-attachments/assets/016711ab-55ae-42f6-8be1-4c6bac24e14d" 
+     alt="WAYFARER ICON" 
+     style="width: 100%; height: auto;">
 
 # 데브코스 2회차 4팀 최종 프로젝트
 [<img width="50" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">](https://www.notion.so/prgrms/44a38f6f064f40bbaca1bce6d7658407?pvs=4)
@@ -23,7 +25,9 @@
 ***
 
 # 1. 프로젝트 개요
-![WAYFARER](https://github.com/user-attachments/assets/3ac2fa4e-8c8b-4c4c-9b3d-506e205b5720)
+<img src="https://github.com/user-attachments/assets/3ac2fa4e-8c8b-4c4c-9b3d-506e205b5720" 
+     alt="WAYFARER" 
+     style="width: 100%; height: auto;">
 
 ## 프로젝트 명
 
