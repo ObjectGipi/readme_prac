@@ -1,11 +1,11 @@
+<img src="https://github.com/user-attachments/assets/3ac2fa4e-8c8b-4c4c-9b3d-506e205b5720" alt="WAYFARER" width="650" height="300">
 
-<img width="132" alt="로고" src="https://github.com/user-attachments/assets/f381eb6e-5c46-48ad-8df2-e4718b7784f1">
+# WEB1_2_TravelMaker_BE<br/>
 
-# WEB1_2_TravelMaker_BE
+**Programmers DevCourse 2회차 4팀 최종 프로젝트**
 
-**Programmers DevCourse 4팀 최종 프로젝트**
-
-📌 [Notion Link](https://www.notion.so/prgrms/Team04-Travel-Maker-705f50eddc27424fbfd36842a8df1a84?pvs=4)
+[<img width="40" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">](https://www.notion.so/prgrms/Team04-Travel-Maker-705f50eddc27424fbfd36842a8df1a84?pvs=4)   
+↗**Notion Link**
 
 ***
 
